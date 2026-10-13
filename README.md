@@ -8,6 +8,7 @@ Analizador visual de espectro para guitarra, hecho con HTML, CSS y JavaScript si
 - Analizador FFT Web Audio con escala de frecuencia logarítmica de 20 Hz a 20 kHz.
 - Curvas translúcidas de referencia para bombo, bajo, guitarra rítmica, guitarra líder, voz y platillos.
 - Curvas aproximadas separadas para los perfiles Estudio y En vivo; cada instrumento se puede ocultar y ajustar su opacidad.
+- Suavizado temporal y suavizado de frecuencia ajustables para hacer más legible la curva de guitarra sin cambiar el audio de entrada.
 - Medidor de nivel de entrada, lectura de frecuencia y zona tonal bajo el cursor, congelado de espectro y captura A/B del nivel.
 - Ajustes visuales y preset local en el navegador.
 
